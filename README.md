@@ -1,9 +1,6 @@
-## Hi there 👋
-
-
 # Hey, I'm David!
 
-* I am a software development technologist from [Colombia](https://www.youtube.com/watch?v=YUEYuS0Jbkk):colombia:
+* I am a software development technologist from [Colombia](https://www.youtube.com/watch?v=YUEYuS0Jbkk) 🇨🇴
 
 
 <!--
